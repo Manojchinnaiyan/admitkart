@@ -27,7 +27,7 @@ const OtpPage = () => {
         alignItems='center'
         style={{
           width: "400px",
-          height: "650px",
+          height: "640px",
           backgroundColor: "white",
         }}
       >
