@@ -7,7 +7,7 @@ import OtpPage from "./components/OtpPage"
 const App = () => {
   return (
     <Router>
-      <div style={{ backgroundColor: "grey" }}>
+      <div style={{ backgroundColor: "#FCCF31" }}>
         <Switch>
           <Route path='/' exact component={MobileNumber} />
           <Route path='/otp' component={OtpPage} />
